@@ -25,4 +25,3 @@ public class Fraction implements Comparable<Fraction>
 
     }
 }
-Created instance variables, a constructor,and a compareTo.
